@@ -58,3 +58,5 @@ gem "tailwindcss-rails", "~> 2.0"
 gem "rspec", "~> 3.11"
 
 gem "sidekiq", "~> 6.5"
+
+gem "friendly_id", "~> 5.4"
